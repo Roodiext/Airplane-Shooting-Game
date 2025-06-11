@@ -31,7 +31,7 @@ Tembakan otomatis akan aktif, kamu tinggal arahkan ke musuh! Fokus pada manuver 
 
 | Menu Awal | Pilih Pesawat 1 | Pilih Pesawat 2 | Gameplay | Game Over |
 |-----------|-----------------|-----------------|----------|-----------|
-| <img src="assets/p1.png" width="200"/> | <img src="assets//p2.png" width="200"/> | <img src="assets//p3.png" width="200"/> | <img src="assets//p4.png" width="200"/> | <img src="assets//p5.png" width="200"/> |
+| <img src="Assets/p1.png" width="200"/> | <img src="Assets//p2.png" width="200"/> | <img src="Assets//p3.png" width="200"/> | <img src="Assets//p4.png" width="200"/> | <img src="Assets//p5.png" width="200"/> |
 
 ---
 
